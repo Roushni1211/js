@@ -1,0 +1,5 @@
+git add .
+
+git commit -m "Add more JS files and update 07_strings.js"
+
+git push origin main
